@@ -1,0 +1,1 @@
+Giro Explorer helps you visualize and convert personal finance transactions downloaded from the dutch Postbank banking site.
